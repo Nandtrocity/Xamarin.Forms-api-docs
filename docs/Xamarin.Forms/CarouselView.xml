@@ -201,6 +201,30 @@
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
+    <Member MemberName="IndicatorView">
+      <MemberSignature Language="C#" Value="public Xamarin.Forms.IndicatorView IndicatorView { set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance class Xamarin.Forms.IndicatorView IndicatorView" />
+      <MemberSignature Language="DocId" Value="P:Xamarin.Forms.CarouselView.IndicatorView" />
+      <MemberSignature Language="F#" Value="member this.IndicatorView : Xamarin.Forms.IndicatorView" Usage="Xamarin.Forms.CarouselView.IndicatorView" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Xamarin.Forms.Core</AssemblyName>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <Attributes>
+        <Attribute>
+          <AttributeName>Xamarin.Forms.TypeConverter(typeof(Xamarin.Forms.ReferenceTypeConverter))</AttributeName>
+        </Attribute>
+      </Attributes>
+      <ReturnValue>
+        <ReturnType>Xamarin.Forms.IndicatorView</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
     <Member MemberName="IsBounceEnabled">
       <MemberSignature Language="C#" Value="public bool IsBounceEnabled { get; set; }" />
       <MemberSignature Language="ILAsm" Value=".property instance bool IsBounceEnabled" />
